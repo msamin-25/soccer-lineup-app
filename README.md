@@ -1,12 +1,41 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ⚽ London Rohingya Youth FC — Lineup Builder
 
-Currently, two official plugins are available:
+An interactive web app for creating and managing soccer lineups for **London Rohingya Youth FC**.  
+Players can drag & drop shirts onto a soccer pitch, select formations (4-3-3, 3-4-3, 2-1-3-4), assign names, numbers, and shirt colors.  
+Supports substitutes, roster management, and saving lineups locally.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- Drag-and-drop lineup builder  
+- Formations: **4-3-3**, **3-4-3**, **2-1-3-4**  
+- Customizable shirts (name, number, color)  
+- Substitutes & roster management  
+- Save/load lineups from local storage  
+- Export lineup data as JSON  
+- Deployable as a **Progressive Web App (PWA)** for install on phones  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- [React + Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- LocalStorage for saving lineups  
+- Optional: GitHub Pages / Vercel for deployment  
+
+📱 Progressive Web App (Optional)
+
+You can make this installable on mobile devices by adding the Vite PWA plugin. This allows teammates to install the app like a native app for offline use.
+
+🤝 Contributing
+
+Contributions are welcome! Ideas for new features:
+Invite-only access codes for players
+Cloud sync for lineups
+More formations (4-4-2, 5-3-2, etc.)
+PDF export of team sheets
+
+👥 Authors
+Developed for London Rohingya Youth FC
+Maintainer: Mohammad Samin
