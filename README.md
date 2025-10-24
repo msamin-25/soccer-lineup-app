@@ -9,7 +9,7 @@ Supports substitutes, roster management, and saving lineups locally.
 
 ## 🚀 Features
 - Drag-and-drop lineup builder  
-- Formations: **4-3-3**, **3-4-3**, **2-1-3-4**  
+- Formations: 4-3-3, 3-4-3, 2-1-3-4, 4-3-2-1, 4-1-3-1 
 - Customizable shirts (name, number, color)  
 - Substitutes & roster management  
 - Save/load lineups from local storage  
