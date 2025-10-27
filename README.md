@@ -26,7 +26,8 @@ Supports substitutes, roster management, and saving lineups locally.
 
 📱 Progressive Web App (Optional)
 
-You can make this installable on mobile devices by adding the Vite PWA plugin. This allows teammates to install the app like a native app for offline use.
+You can make this installable on mobile devices by adding the Vite PWA plugin. 
+This allows teammates to install the app like a native app for offline use.
 
 🤝 Contributing
 
@@ -34,7 +35,6 @@ Contributions are welcome! Ideas for new features:
 Invite-only access codes for players
 Cloud sync for lineups
 More formations (4-4-2, 5-3-2, etc.)
-PDF export of team sheets
 
 👥 Authors
 Developed for London Rohingya Youth FC
