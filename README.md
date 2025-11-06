@@ -1,5 +1,5 @@
 
-# ⚽ London Rohingya Youth FC — Lineup Builder
+# Lineup Builder
 
 An interactive web app for creating and managing soccer lineups for **London Rohingya Youth FC**.  
 Players can drag & drop shirts onto a soccer pitch, select formations (4-3-3, 3-4-3, 2-1-3-4), assign names, numbers, and shirt colors.  
