@@ -19,7 +19,7 @@ Supports substitutes, roster management, and saving lineups locally.
 - Substitutes & roster management  
 - Save/load lineups from local storage  
 - Export lineup data as JSON  
-- Deployable as a **Progressive Web App (PWA)** for install on phones  
+- Deployable as a **Progressive Web App (PWA)** for installing on phones  
 
 ---
 
